@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Konversi Mata Uang IDR ke MYR</string>
+    <string name="edittext_exchange_rate_hint">Masukkan Nilai Tukar</string>
+    <string name="edittext_nominal_idr_hint">Masukkan Nominal IDR</string>
+    <string name="button_convert_text">Konversi</string>
+</resources>
