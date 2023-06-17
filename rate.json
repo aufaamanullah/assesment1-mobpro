@@ -1,0 +1,11 @@
+[
+  {"rate": "Rp.14.958", "country": "Dollar USA", "flag": "usa"},
+  {"rate": "Rp.11.050", "country": "Dollar Singapore", "flag": "sgp"},
+  {"rate": "Rp.3.988", "country": "Riyyal Saudi Arab", "flag": "sar"},
+  {"rate": "Rp.3.247", "country": "Ringgit Malaysia", "flag": "myr"},
+  {"rate": "Rp.11,3", "country": "Won Korea Selatan", "flag": "krw"},
+  {"rate": "Rp.106,6", "country": "Yuan Jepang", "flag": "jpy"},
+  {"rate": "Rp.16.017", "country": "Euro", "flag": "eur"},
+  {"rate": "Rp.2.114", "country": "Yuan China", "flag": "cny"},
+  {"rate": "Rp.9.780", "country": "Dollar Australia","flag": "aud"}
+]
